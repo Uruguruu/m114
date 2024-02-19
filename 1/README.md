@@ -2,7 +2,7 @@
 
 ## Aufgaben
 
-1.
+1. Es zeigt die Equivalent von Decimal zu Hexadecimal und Binary.
 
 | Decimal | Hexadecimal | Binary 1 | Binary 2 | Binary 3 | Binary 4 |
 |---------|-------------|----------|----------|----------|----------|
@@ -22,8 +22,6 @@
 | 13      | D           | 1        | 1        | 0        | 1        |
 | 14      | E           | 1        | 1        | 1        | 0        |
 | 15      | F           | 1        | 1        | 1        | 1        |
-
-    Es zeigt die Equivalent von Decimal zu Hexadecimal und Binary.
 
 2. 911 = 1110001111
 3. 1011'0110 = B6
