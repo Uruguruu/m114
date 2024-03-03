@@ -35,7 +35,7 @@
     - Group: read, write
     - Public: read
 8. 1101011 also 7 stellige Zahl.
-9. 2^182 KiB
+9. 2^182 KiB = 192 BIT im Ram also 2^192 bit durch 1042 = 2^182 KiB
 10. a) 125'000
     b) 1 Million
 11. a) 11111111 - 00000000
