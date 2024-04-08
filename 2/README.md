@@ -77,5 +77,9 @@ w         1111
 Twitchstreamer
 
 ## 3
-Es müsste noch eine Farbe definiert werden.
-5bit | 9bit ()
+1. 6bit, weil grösste Zahl 61 ist.
+2. Es müsste noch eine Farbe definiert werden.
+
+## 4
+1. ![PXL_20240304_092515758.jpg](PXL_20240304_092515758.jpg)
+
