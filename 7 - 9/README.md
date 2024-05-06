@@ -82,3 +82,11 @@ Was ist der Unterschied zwischen OpenPGP und X.509?
 
 OpenPGP, kann von absolut jedem signed, also verifiziert werden, x.509 jedoch kann nur von Authentifizierten stellen verifiziert werden.
 
+x.509 ist zwar in OpenPGP unterschützt aber nicht kompatibel
+
+### 14.
+Https ist eigentlich http + TLS, das heisst es wird einfach nur der Inhalt eins HTTP Pakets mit TLS verschlüsselt. Die restlichen informationen werden immer noch gebraucht, dass das Paket an sein Zielt kommt un können nicht verschlüsselt werden.
+
+Die schlüsselpaare werden mit PKI ausgetauscht und so wird eine Sichere Verbindung gewährleistet.
+
+
